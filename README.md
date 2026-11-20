@@ -20,7 +20,7 @@ does the compositing; `meme.png` is the picture that was posted.
 `POST.json` names the X post carrying the meme:
 
 ```json
-{"url": "https://x.com/Nentoczc/status/<post id>"}
+{"url": "https://x.com/Nentoczc/status/2123815716487127519"}
 ```
 
 Posted from the public account [@Nentoczc](https://x.com/Nentoczc), with
